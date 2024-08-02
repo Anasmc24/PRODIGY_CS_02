@@ -6,6 +6,9 @@ Requirements
 Python 3.x
 Pillow (PIL Fork)
 NumPy
+
+Installation Clone the repository: git clone 
+
 You can install the required libraries using pip: pip install pillow numpy
 
 Usage Load the original image Specify the path to your input image in the "input_image_path" variable.
