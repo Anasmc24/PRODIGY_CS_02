@@ -7,7 +7,7 @@ Python 3.x
 Pillow (PIL Fork)
 NumPy
 
-Installation Clone the repository: git clone 
+Installation Clone the repository: git clone https://github.com/Anasmc24/PRODIGY_CS_02/tree/main
 
 You can install the required libraries using pip: pip install pillow numpy
 
